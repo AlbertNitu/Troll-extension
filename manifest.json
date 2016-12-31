@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
 
-  "name": "Adblock Plus",
-  "description": "Hides any ads on a page",
+  "name": "Troll",
+  "description": "Plays the John Cena theme when a page loads",
   "version": "1.0",
 
   "browser_action": {
-    "default_icon": "icon.png",
+    "default_icon": "Trollface.png",
     "default_popup": "popup.html"
   },
 
